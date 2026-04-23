@@ -1,4 +1,4 @@
- Web Development Project
+Mini social media webpage Project
 
 📌 Description
 This is a simple web application with home and registration pages. 
